@@ -89,7 +89,7 @@ When you create a profile, certain information is visible to other Mindligo user
 We work with a limited number of trusted service providers who process data on our behalf:
 
 - **Supabase** (supabase.com) — Database, authentication, and backend infrastructure. Hosted on AWS. [Supabase Privacy Policy](https://supabase.com/privacy)
-- **Stream** (getstream.io) — In-app chat and messaging functionality. [Stream Privacy Policy](https://getstream.io/legal/privacy-policy/)
+- **Stream** (getstream.io) — In-app chat and messaging functionality. [Stream.io INC Privacy Statement](https://getstream.io/legal/privacy/)
 - **Expo / Expo Push Notification Service** — Push notification delivery. [Expo Privacy Policy](https://expo.dev/privacy)
 
 These providers are contractually obligated to use your data only for the services they provide to us and in accordance with this Privacy Policy.
@@ -194,7 +194,7 @@ Your continued use of the App after changes are posted constitutes your acceptan
 If you have any questions, concerns, or requests regarding this Privacy Policy or our data practices, please contact us:
 
 **ZTensor**
-Email: support@ztensor.com
+Email: support@mindligo.com
 
 For data deletion requests, account inquiries, or privacy-related concerns, please include "Privacy Request" in the subject line of your email.
 
