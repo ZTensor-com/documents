@@ -193,7 +193,7 @@ Your continued use of the App after changes are posted constitutes your acceptan
 
 If you have any questions, concerns, or requests regarding this Privacy Policy or our data practices, please contact us:
 
-**Mindligo**
+**MindLigo**
 Email: support@mindligo.com
 
 For data deletion requests, account inquiries, or privacy-related concerns, please include "Privacy Request" in the subject line of your email.
