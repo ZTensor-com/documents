@@ -66,7 +66,7 @@ We maintain a designated point of contact who is able to speak about our CSAM pr
 
 **Child Safety Point of Contact**
 ZTensor — MindLigo
-Email: mjegann@ztensor.com
+Email: support@mindligo.com
 
 ---
 
